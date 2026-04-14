@@ -23,7 +23,7 @@ En la raíz hay un archivo de manifiesto que **VRCMT descarga automáticamente**
 - **Qué versión** del stub se considera la actual (número de versión tipo 1.x.x).
 - **Desde qué dirección** debe descargarse el ejecutable publicado (enlace a **Releases**).
 - Una **comprobación de integridad** (huella digital del archivo) para asegurarse de que lo que se descargó coincide con lo publicado.
-- **Qué versión mínima de VRCMT** hace falta** para usar esa actualización, para evitar mezclar versiones incompatibles.
+- **Qué versión mínima de VRCMT** hace falta para usar esa actualización, y así evitar mezclar versiones incompatibles.
 - Un **texto de cambios** breve para el usuario (qué se mejoró respecto a la versión anterior).
 
 Si en VRCMT dejas la URL del manifiesto en blanco, se usa **por defecto** la de este repositorio.
