@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "download_url": "https://github.com/doctorlatex/VRCMT-stub/releases/download/v1.2.0/yt-dlp.exe",
-  "sha256": "28c4d58317e08bd49d341aa3e803860b6a7d28476685ac66409b0bce1ba8cf8f",
+  "version": "1.3.0",
+  "download_url": "https://github.com/doctorlatex/VRCMT-stub/releases/download/v1.3.0/yt-dlp.exe",
+  "sha256": "a32c80cbb48c2d520f738957e1ed8449a06cf7f646c6c419d62fa8c4d08cc543",
   "description": "VRCMT yt-dlp stub - reemplaza yt-dlp.exe de VRChat para soporte de cookies",
   "min_vrcmt_version": "2.0.0",
-  "changelog": "Compatibilidad YouTube reforzada: cookies desde navegador, fallback player_client y filtrado de flags legacy."
+  "changelog": "yt-dlp 2026.03.17 embebido; spec de build restaurado; filtrado legacy y cookies sidecar sin cambios de API."
 }
